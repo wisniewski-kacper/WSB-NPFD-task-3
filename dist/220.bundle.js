@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_task=self.webpackChunkwebpack_task||[]).push([[220],{220:(e,a,t)=>{t.r(a),t.d(a,{default:()=>s});var n=t(159);const s=function(){return n.createElement("p",null,"This is a lazy-loaded component!")}}}]);
